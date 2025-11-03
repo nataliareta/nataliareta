@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here’s a bit about my experience! [**Nata Journey**](bit.ly/PortofolioNataliaa)
+Here’s a bit about my experience! [**Nata Journey**](https://www.canva.com/design/DAGsY7cC6FE/dMstS4CxHybm6MJCttzoUQ/view?utm_content=DAGsY7cC6FE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd39631e0ad)
