@@ -44,3 +44,6 @@ Here’s a bit about my experience! [**Nata Journey**](https://www.canva.com/des
 
 ##### My Github Stats
 ![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliareta&show_icons=true&theme=dark)
+
+##### Wanna play a game?
+<img src="https://raw.githubusercontent.com/nataliareta/nataliareta/output/snake.svg" alt="Snake animation" />
