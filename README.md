@@ -46,10 +46,10 @@ Here’s a bit about my experience! [**Nata Journey**](https://www.canva.com/des
 ![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliareta&show_icons=true&theme=dark)
 
 ##### Wanna play a game?
-<img src="https://raw.githubusercontent.com/nataliareta/nataliareta/output/snake.svg" alt="Snake animation" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nataliareta/nataliareta/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nataliareta/nataliareta/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nataliareta/nataliareta/output/pacman-contribution-graph.svg">
 </picture>
+
+<img src="https://raw.githubusercontent.com/nataliareta/nataliareta/output/snake.svg" alt="Snake animation" />
