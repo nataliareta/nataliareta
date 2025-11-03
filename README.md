@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, glad you’re here! Explore my projects below 👇
+
+![Natalia Reta](img/header-linkedin.png)
 
 <!--
 **nataliareta/nataliareta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here’s a bit about my experience! [**Nata Journey**](bit.ly/PortofolioNataliaa)
