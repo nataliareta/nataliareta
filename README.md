@@ -38,9 +38,9 @@ Here’s a bit about my experience! [**Nata Journey**](https://www.canva.com/des
 ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) 
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
-##### Connect with me!
-[![www.linkedin.com/in/nataliareta](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-[![https://www.instagram.com/renataliaaaa_?igsh=MXVyNGQ1NWZ1MG5sNA%3D%3D&utm_source=qr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+#### Connect with me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliareta)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renataliaaaa_)
 
 ##### My Github Stats
 ![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliareta&show_icons=true&theme=dark)
