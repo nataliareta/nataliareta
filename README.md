@@ -1,21 +1,6 @@
 ## Hi, glad you’re here! Explore my projects below 👇
 
-![Natalia Reta](img/header-linkedin.png)
-
-<!--
-**nataliareta/nataliareta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Natalia Reta](img/header-github.png)
 
 Here’s a bit about my experience! [**Nata Journey**](https://www.canva.com/design/DAG3ogqh5tU/bvx_WAC1YXmRyA8jTNoKiA/edit?utm_content=DAG3ogqh5tU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -33,6 +18,7 @@ Here’s a bit about my experience! [**Nata Journey**](https://www.canva.com/des
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ##### Creative & Design Tools
