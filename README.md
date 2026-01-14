@@ -1,6 +1,6 @@
 ## Hi, glad you’re here! Explore my projects below 👇
 
-![Natalia Reta](img/last-header.png)
+![Natalia Reta](img/natalia-header.png)
 
 Here’s a bit about my experience! [**Nata Journey**](https://www.canva.com/design/DAG3ogqh5tU/bvx_WAC1YXmRyA8jTNoKiA/edit?utm_content=DAG3ogqh5tU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
