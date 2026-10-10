@@ -1,9 +1,13 @@
-## Hi, glad you’re here! Explore my projects below 👇
-
-Here’s a bit about my experience! [**Nata Journey**](https://www.canva.com/design/DAG3ogqh5tU/bvx_WAC1YXmRyA8jTNoKiA/edit?utm_content=DAG3ogqh5tU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## Hi there! Welcome to my GitHub 👋
+Explore my projects and see what I've been building. Btw, here’s a bit about my experience! [**Nata Journey**](https://www.canva.com/design/DAG3ogqh5tU/bvx_WAC1YXmRyA8jTNoKiA/edit?utm_content=DAG3ogqh5tU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ![Natalia Reta](img/Header-Github.png)
 
+#### Lets connect with me, gowwww!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliareta)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renataliaaaa_)
+
+---
 
 ## Skills & Tools
 
@@ -50,17 +54,9 @@ Here’s a bit about my experience! [**Nata Journey**](https://www.canva.com/des
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![image](https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=black)
 
----
-
 ## Wanna play a game?
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nataliareta/nataliareta/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nataliareta/nataliareta/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nataliareta/nataliareta/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-### Lets connect with me, gowwww!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliareta)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renataliaaaa_)
