@@ -1,8 +1,9 @@
 ## Hi, glad you’re here! Explore my projects below 👇
 
+Here’s a bit about my experience! [**Nata Journey**](https://www.canva.com/design/DAG3ogqh5tU/bvx_WAC1YXmRyA8jTNoKiA/edit?utm_content=DAG3ogqh5tU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ![Natalia Reta](img/Header-Github.png)
 
-Here’s a bit about my experience! [**Nata Journey**](https://www.canva.com/design/DAG3ogqh5tU/bvx_WAC1YXmRyA8jTNoKiA/edit?utm_content=DAG3ogqh5tU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Skills & Tools
 
@@ -53,11 +54,13 @@ Here’s a bit about my experience! [**Nata Journey**](https://www.canva.com/des
 
 ---
 
-#### Connect with me!
+### Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliareta)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renataliaaaa_)
 
-##### Wanna play a game?
+---
+
+## Wanna play a game?
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nataliareta/nataliareta/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nataliareta/nataliareta/output/pacman-contribution-graph.svg">
