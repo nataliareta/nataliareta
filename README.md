@@ -19,6 +19,8 @@ Explore my projects and see what I've been building. Btw, here’s a bit about m
 ![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![image](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/SPSS-0067A0?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -37,6 +39,9 @@ Explore my projects and see what I've been building. Btw, here’s a bit about m
 ![image](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
 ![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) 
+![image](https://img.shields.io/badge/Computer_Vision-6A5ACD?style=for-the-badge&logo=opencv&logoColor=white)
+![image](https://img.shields.io/badge/NLP-008080?style=for-the-badge&logoColor=white)
+![image](https://img.shields.io/badge/Predictive_Modeling-4B0082?style=for-the-badge&logoColor=white)
 
 ---
 
